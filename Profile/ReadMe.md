@@ -1,4 +1,4 @@
-# Global alias for PowerShell:
+# Global aliases for PowerShell:
 Use this profile.ps1 to set and create aliases that you can use to make development easier. 
 
 ## How to install:
